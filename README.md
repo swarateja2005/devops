@@ -1,1 +1,1 @@
-this is an event registration form..
+this is an event registration form
